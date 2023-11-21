@@ -21,7 +21,7 @@ struct ContentView: View {
         .padding(20)
         .background(.red)
         .padding()
-        .background(.blue)
+        .background(.black)
         .padding()
         .background(.green)
         .padding()
