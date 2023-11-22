@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		CC2C72C92B0EA35200B34E34 /* customCointainer.swift in Sources */ = {isa = PBXBuildFile; fileRef = CC2C72C82B0EA35200B34E34 /* customCointainer.swift */; };
 		CC6DBF1A2B0B1F1E00444D51 /* ViewsAndModifiersApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = CC6DBF192B0B1F1E00444D51 /* ViewsAndModifiersApp.swift */; };
 		CC6DBF1C2B0B1F1E00444D51 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CC6DBF1B2B0B1F1E00444D51 /* ContentView.swift */; };
 		CC6DBF1E2B0B1F1F00444D51 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CC6DBF1D2B0B1F1F00444D51 /* Assets.xcassets */; };
@@ -20,6 +21,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		CC2C72C82B0EA35200B34E34 /* customCointainer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = customCointainer.swift; sourceTree = "<group>"; };
 		CC6DBF162B0B1F1E00444D51 /* ViewsAndModifiers.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ViewsAndModifiers.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		CC6DBF192B0B1F1E00444D51 /* ViewsAndModifiersApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewsAndModifiersApp.swift; sourceTree = "<group>"; };
 		CC6DBF1B2B0B1F1E00444D51 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -73,6 +75,7 @@
 				CCAF6D1E2B0D5420003E9A78 /* viewsAsPropertie.swift */,
 				CCAF6D202B0D5752003E9A78 /* viewComposition.swift */,
 				CCAF6D222B0D58B6003E9A78 /* customModifier.swift */,
+				CC2C72C82B0EA35200B34E34 /* customCointainer.swift */,
 			);
 			path = ViewsAndModifiers;
 			sourceTree = "<group>";
@@ -156,6 +159,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				CCDFC4902B0C7563007F0B3D /* someview.swift in Sources */,
+				CC2C72C92B0EA35200B34E34 /* customCointainer.swift in Sources */,
 				CCAF6D232B0D58B6003E9A78 /* customModifier.swift in Sources */,
 				CCAF6D1F2B0D5420003E9A78 /* viewsAsPropertie.swift in Sources */,
 				CCAF6D1D2B0D4ACF003E9A78 /* enviromentModifiers.swift in Sources */,
